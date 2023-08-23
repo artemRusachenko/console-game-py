@@ -1,0 +1,5 @@
+question 10.1?  A. answer1  B. answer2  C. answer3  D. answer4  2  32 000
+question 10.2?  A. answer1  B. answer2  C. answer3  D. answer4  4  32 000
+question 10.3?  A. answer1  B. answer2  C. answer3  D. answer4  1  32 000
+question 10.4?  A. answer1  B. answer2  C. answer3  D. answer4  3  32 000
+question 10.5?  A. answer1  B. answer2  C. answer3  D. answer4  1  32 000

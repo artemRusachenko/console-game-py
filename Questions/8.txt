@@ -1,0 +1,5 @@
+question 8.1?  A. answer1  B. answer2  C. answer3  D. answer4  4  8 000
+question 8.2?  A. answer1  B. answer2  C. answer3  D. answer4  2  8 000
+question 8.3?  A. answer1  B. answer2  C. answer3  D. answer4  1  8 000
+question 8.4?  A. answer1  B. answer2  C. answer3  D. answer4  3  8 000
+question 8.5?  A. answer1  B. answer2  C. answer3  D. answer4  1  8 000

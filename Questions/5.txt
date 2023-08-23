@@ -1,0 +1,5 @@
+question 5.1?  A. answer1  B. answer2  C. answer3  D. answer4  4  1 000
+question 5.2?  A. answer1  B. answer2  C. answer3  D. answer4  2  1 000
+question 5.3?  A. answer1  B. answer2  C. answer3  D. answer4  1  1 000
+question 5.4?  A. answer1  B. answer2  C. answer3  D. answer4  4  1 000
+question 5.5?  A. answer1  B. answer2  C. answer3  D. answer4  4  1 000

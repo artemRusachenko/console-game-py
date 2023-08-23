@@ -1,0 +1,7 @@
+Name  Record
+artem  200
+anya  200
+sasha  100
+aa  100
+Artem  100
+d  300

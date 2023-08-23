@@ -1,0 +1,5 @@
+question 9.1?  A. answer1  B. answer2  C. answer3  D. answer4  1  16 000
+question 9.2?  A. answer1  B. answer2  C. answer3  D. answer4  3  16 000
+question 9.3?  A. answer1  B. answer2  C. answer3  D. answer4  4  16 000
+question 9.4?  A. answer1  B. answer2  C. answer3  D. answer4  2  16 000
+question 9.5?  A. answer1  B. answer2  C. answer3  D. answer4  3  16 000

@@ -1,0 +1,5 @@
+question 13.1?  A. answer1  B. answer2  C. answer3  D. answer4  2  250 000
+question 13.2?  A. answer1  B. answer2  C. answer3  D. answer4  1  250 000
+question 13.3?  A. answer1  B. answer2  C. answer3  D. answer4  3  250 000
+question 13.4?  A. answer1  B. answer2  C. answer3  D. answer4  2  250 000
+question 13.5?  A. answer1  B. answer2  C. answer3  D. answer4  4  250 000

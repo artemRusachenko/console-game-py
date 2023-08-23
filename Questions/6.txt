@@ -1,0 +1,5 @@
+question 6.1?  A. answer1  B. answer2  C. answer3  D. answer4  1  2 000
+question 6.2?  A. answer1  B. answer2  C. answer3  D. answer4  3  2 000
+question 6.3?  A. answer1  B. answer2  C. answer3  D. answer4  4  2 000
+question 6.4?  A. answer1  B. answer2  C. answer3  D. answer4  2  2 000
+question 6.5?  A. answer1  B. answer2  C. answer3  D. answer4  3  2 000
